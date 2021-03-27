@@ -1,4 +1,6 @@
-# A smart & intuitive mega menu builder for Elementor
+# [NOTICE] The plugin was changed to [Elemental Menu](https://github.com/wpcleveldotcom/elemental-menu). This repo is for backward updates only.
+
+# A smart, lightweight and intuitive mega menu builder for Elementor
 As an agency, we tried other mega menu plugins for Elementor before but none of them met our requirements and fulfilled the capacity of Elementor. So, we made this one which is very intuitive, feature-rich and lightweight.
 
 ## Key features
